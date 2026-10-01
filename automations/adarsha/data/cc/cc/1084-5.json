@@ -1,0 +1,530 @@
+{
+  "has_job_ads": true,
+  "masthead_date": "",
+  "ads": [
+    {
+      "box": 0,
+      "bbox": [],
+      "text_ne": "पाइलट आवश्यकता\nपोखरा-६, लेकसाइडमा रहेको यस प्याराग्लाइडिङ प्रा.लि. का लागि अनुभवी पाइलट चाहियो।\nपद : टेण्डम पाइलट : ४ जना (नेपाली)\nसम्पर्क\nग्रिनवाल प्याराग्लाइडिङ प्रा.लि.\nपोखरा-६, लेकसाइड\nफोन : ०६१-४६०९६०, ४६५७४४",
+      "text_en": "Pilot Wanted\nAn experienced pilot is needed for this paragliding company located at Lakeside, Pokhara-6.\nPosition: Tandem Pilot: 4 persons (Nepali)\nContact\nGreenvalley Paragliding Pvt. Ltd.\nPokhara-6, Lakeside\nPhone: 061-460960, 465744",
+      "jobs": [
+        {
+          "category": "private",
+          "title": "Tandem Pilot",
+          "organization": "Greenvalley Paragliding Pvt. Ltd.",
+          "location": "Pokhara-6, Lakeside",
+          "positions_count": "4",
+          "salary": "",
+          "qualifications": "Experienced pilot, Nepali",
+          "deadline_text": "",
+          "contact": "061-460960, 465744",
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "box": 3,
+      "bbox": [],
+      "text_ne": "कम्प्युटर सहायक तथा सेक्युरिटी गार्ड आवश्यकता\nउपरोक्त सम्बन्धमा यस वेर्स्टन हेल्थ साइन्स एकेडेमी तथा पोखरा टेक्निकल हेल्थ मल्टीप्रपोज इन्स्टिच्युट मा केही पद रिक्त रहन आएकोमा मिति २०७२/१२/२५ गतेभित्रमा इच्छुक व्यक्ति तथा कम्पनी/फर्म ले क्याम्पस प्रशासनमा दरखास्त बुझाउन हुन सुचित गरिन्छ।\nपद: १) कम्प्युटर ल्याब सहायक र टाइपिष्ट (१ जना) - योग्यता: प्रमाण पत्र तह/+2 पास, अनुभवका साथै Diploma in Computer Training गरेको, नेपाली र अंग्रेजी टाइपिङ गर्न सक्ने। आवश्यक कागजपत्र: नागरिकताको प्रतिलिपि, शैक्षिक योग्यताको प्रमाणपत्र, तालिम तथा अनुभवको प्रमाणपत्र, हस्तलिखित निवेदन।\n२) सेक्युरिटी गार्ड - सम्बन्धित सेक्युरिटी गार्ड कम्पनी/फर्म ले आ.रा.का तथा सम्बन्धित निकायमा दर्ता प्रमाणपत्रसहित आफ्नो सेवा शर्त गोप्य रुपमा पेश गर्नुपर्ने छ।\nवेर्स्टन हेल्थ साइन्स एकेडेमी\nपोखरा २१, काहुँ भन्ज्याङ, कास्की, फोन नं: ०६१-५५१०९३/५२३१२३",
+      "text_en": "Computer Assistant and Security Guard Wanted\nWestern Health Science Academy and Pokhara Technical Health Multipurpose Institute have some vacant positions; interested individuals and companies/firms should submit applications to the campus administration by 2072/12/25 (BS).\nPositions: 1) Computer Lab Assistant and Typist (1 person) - Qualification: Certificate level/+2 pass, with experience and a Diploma in Computer Training, able to type in Nepali and English. Required documents: citizenship copy, educational certificates, training/experience certificates, handwritten application.\n2) Security Guard - the relevant security guard company/firm must submit its service terms confidentially along with registration certificate with the district administration office and relevant body.\nWestern Health Science Academy\nPokhara 21, Kahun Danda, Kaski, Phone: 061-551093/523123",
+      "jobs": [
+        {
+          "category": "private",
+          "title": "Computer Lab Assistant and Typist",
+          "organization": "Western Health Science Academy / Pokhara Technical Health Multipurpose Institute",
+          "location": "Pokhara-21, Kahun Danda, Kaski",
+          "positions_count": "1",
+          "salary": "",
+          "qualifications": "Certificate level/+2 pass, Diploma in Computer Training, Nepali and English typing",
+          "deadline_text": "मिति २०७२/१२/२५ गतेभित्रमा",
+          "contact": "061-551093, 523123",
+          "confidence": 0.8
+        },
+        {
+          "category": "private",
+          "title": "Security Guard",
+          "organization": "Western Health Science Academy / Pokhara Technical Health Multipurpose Institute",
+          "location": "Pokhara-21, Kahun Danda, Kaski",
+          "positions_count": "",
+          "salary": "",
+          "qualifications": "Registered security guard company/firm",
+          "deadline_text": "मिति २०७२/१२/२५ गतेभित्रमा",
+          "contact": "061-551093, 523123",
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "box": 5,
+      "bbox": [],
+      "text_ne": "निःशुल्क तालिम सम्बन्धी सूचना\nयस शिक्षालयमा मिति २०७२ चैत्र २५ गतेदेखि निःशुल्क सञ्चालन हुने तपसिलको सीप तथा रोजगारमूलक तालिममा योग्यता पुगेका इच्छुक नेपाली नागरिकबाट दरखास्त आव्हान गरिन्छ।\nक्र.सं. १: तालिमको नाम - कमर्सियल कुकिङ, तह - १, अवधि - ३९० घण्टा, योग्यता - ८ कक्षा उत्तीर्ण, उमेर - १६ वर्षदेखि ४० वर्षसम्म\nमहिला, दलित, भूकम्प पीडित, विपन्न र पिछडिएका वर्गलाई विशेष प्राथमिकता दिइने छ।\nफाराम बुझाउने अन्तिम मिति: २०७२ चैत्र २३ गते।\nअन्तर्वार्ता मिति: २०७२ चैत्र २४ गते।\nपोखरा स्कूल अफ टुरिजम एण्ड हस्पिटालिटी म्यानेजमेन्ट, फुलबारी, पोखरा फोन: ०६१-५२८०४०, ०६१-५२२०४०",
+      "text_en": "Notice Regarding Free Training\nThis institute invites applications from eligible Nepali citizens for a free skill and employment-oriented training starting from 2072 Chaitra 25 BS.\nS.N. 1: Training name - Commercial Cooking, Level - 1, Duration - 390 hours, Qualification - Class 8 pass, Age - 16 to 40 years\nSpecial priority given to women, Dalits, earthquake victims, the poor and marginalized groups.\nLast date to submit form: 2072 Chaitra 23.\nInterview date: 2072 Chaitra 24.\nPokhara School of Tourism and Hospitality Management, Phulbari, Pokhara, Phone: 061-528040, 061-522040",
+      "jobs": [
+        {
+          "category": "training",
+          "title": "Commercial Cooking Training (free)",
+          "organization": "Pokhara School of Tourism and Hospitality Management",
+          "location": "Phulbari, Pokhara",
+          "positions_count": "",
+          "salary": "",
+          "qualifications": "Class 8 pass, age 16-40 years",
+          "deadline_text": "फाराम बुझाउने अन्तिम मिति: २०७२ चैत्र २३ गते",
+          "contact": "061-528040, 061-522040",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "box": 10,
+      "bbox": [],
+      "text_ne": "तु-आवश्यकता\nयस होटल न्यूरोड इनका लागि निम्न कर्मचारी आवश्यक परेको हुँदा बायोडाटासहित तु-सम्पर्क गर्नुहोला।\nकम्तीमा १ वर्ष अनुभव प्राप्त गरेकालाई प्राथमिकता दिइनेछ।\nवेट्रेस: २ जना (लेडिज)\nहाउसकिपिड: १ जना (महिला)\nसम्पर्क ०६१-५२६४५३, ९८२४९१०३०३",
+      "text_en": "Immediately Wanted\nThe following staff are required for this Hotel New Road Inn; contact immediately with biodata.\nCandidates with at least 1 year of experience will be preferred.\nWaitress: 2 persons (ladies)\nHousekeeping: 1 person (female)\nContact 061-526453, 9824910303",
+      "jobs": [
+        {
+          "category": "private",
+          "title": "Waitress",
+          "organization": "Hotel New Road Inn",
+          "location": "New Road, Pokhara",
+          "positions_count": "2",
+          "salary": "",
+          "qualifications": "At least 1 year experience preferred, ladies",
+          "deadline_text": "",
+          "contact": "061-526453, 9824910303",
+          "confidence": 0.75
+        },
+        {
+          "category": "private",
+          "title": "Housekeeping",
+          "organization": "Hotel New Road Inn",
+          "location": "New Road, Pokhara",
+          "positions_count": "1",
+          "salary": "",
+          "qualifications": "At least 1 year experience preferred, female",
+          "deadline_text": "",
+          "contact": "061-526453, 9824910303",
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "box": 21,
+      "bbox": [],
+      "text_ne": "आवश्यकता\nअफिसको लागि\nNo Interview No Experience\nसाधारण लेखपढ: ३ जना\nTest/SLC: ३ जना\n+2 above: ४ जना\nतलब: ८,000 देखि १९,५00/-\nसुविधा: दैनिक गाडी भाडा+मासिक बोनस\nसम्पर्क: ८८१६९१३८०८, ८८४६०५७७१०",
+      "text_en": "Wanted\nFor office\nNo Interview No Experience\nGeneral literate: 3 persons\nTest/SLC: 3 persons\n+2 above: 4 persons\nSalary: Rs 8,000 to 19,500/-\nBenefits: Daily transport allowance + monthly bonus\nContact: 8816913808, 8846057710",
+      "jobs": [
+        {
+          "category": "private",
+          "title": "Office Staff",
+          "organization": "",
+          "location": "",
+          "positions_count": "10",
+          "salary": "रु ८,000 देखि १९,५00/-",
+          "qualifications": "General literate / Test/SLC / +2 above",
+          "deadline_text": "",
+          "contact": "8816913808, 8846057710",
+          "confidence": 0.55
+        }
+      ]
+    },
+    {
+      "box": 23,
+      "bbox": [],
+      "text_ne": "रु १५०० मा फर अंग्रेजी\n100% ग्यारेण्टी बोल्न र लेख्न भर्ना, किताब, CD निःशुल्क, RJ/MC तालिम पनि। सिट सीमित छ।\nसम्पर्क: Open Vision Academy\nBagar, Pokhara-1\nमाइक्रो घुम्ने बगरचोकदेखि माछापुछ्रे बैंक जाने बाटो\n9846385802, 9806505052",
+      "text_en": "English Course for Rs 1500 (free)\n100% guarantee to speak and write. Enrollment, books, CD free. RJ/MC training also available. Seats limited.\nContact: Open Vision Academy\nBagar, Pokhara-1\nOn the road from Bagar Chowk (micro turning point) to Machhapuchhre Bank\n9846385802, 9806505052",
+      "jobs": [
+        {
+          "category": "training",
+          "title": "Spoken English Course / RJ-MC Training",
+          "organization": "Open Vision Academy",
+          "location": "Bagar, Pokhara-1",
+          "positions_count": "",
+          "salary": "",
+          "qualifications": "",
+          "deadline_text": "",
+          "contact": "9846385802, 9806505052",
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "box": 24,
+      "bbox": [],
+      "text_ne": "तु-आवश्यकता\nकुक: (नान, तन्दुरी बनाउन जान्ने)\nसंख्या : १\nसम्पर्क ५३९७४७, ९८४६१०८९२२",
+      "text_en": "Immediately Wanted\nCook: (must know how to make naan, tandoori)\nNumber: 1\nContact 539747, 9846108922",
+      "jobs": [
+        {
+          "category": "private",
+          "title": "Cook (Naan, Tandoori)",
+          "organization": "",
+          "location": "",
+          "positions_count": "1",
+          "salary": "",
+          "qualifications": "Knows how to make naan, tandoori items",
+          "deadline_text": "",
+          "contact": "539747, 9846108922",
+          "confidence": 0.55
+        }
+      ]
+    },
+    {
+      "box": 25,
+      "bbox": [],
+      "text_ne": "होटल तालिम इन्टरनेशनलमा\nविगत १२ वर्षदेखि/धमाधम भर्ना भइरहेछ।\nCook- ३ महिने, Waiter- २ महिने, Japan जानेहरुको लागि १ महिने\nNaan,Tandoori Cook Perfect\nसम्पूर्ण कोर्ष ५ तारे होटलका प्रशिक्षकद्वारा\nPerfect नभए पुनः सिकाइने तथा रोजगारको व्यवस्था\nविदेश जानेहरुलाई Document बनाउन सहयोग गरिने\nINTERNATIONAL Hotel Training Center, न्यूरोड, पोखरा, VOYE रेष्टुरेण्ट सामु गोश्ली अगाडि\n061-541394, 9846020322",
+      "text_en": "Hotel Training International\nRunning for the past 12 years, admissions ongoing.\nCook - 3 months, Waiter - 2 months, 1 month for those going to Japan\nPerfect training in Naan, Tandoori Cook\nEntire course taught by five-star hotel trainers\nIf not perfect, re-teaching and job placement arranged\nHelp provided with documents for those going abroad\nINTERNATIONAL Hotel Training Center, New Road, Pokhara, opposite VOYE Restaurant\n061-541394, 9846020322",
+      "jobs": [
+        {
+          "category": "training",
+          "title": "Cook / Waiter Training (incl. Japan track)",
+          "organization": "INTERNATIONAL Hotel Training Center",
+          "location": "New Road, Pokhara",
+          "positions_count": "",
+          "salary": "",
+          "qualifications": "",
+          "deadline_text": "",
+          "contact": "061-541394, 9846020322",
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "box": 26,
+      "bbox": [],
+      "text_ne": "ब्युटिसियन तालिम\nनेपाल सरकारबाट स्वीकृत प्राप्त यस ब्युटीपार्लरमा ब्युटिसियन तथा स्कीन केयरसम्बन्धी तालिम सञ्चालन भइरहेको हुँदा इच्छुक महिलाहरूले सम्पर्क गर्नुहोला।\nआवश्यक संख्या: २५ जना (महिला)\nछनोट प्रक्रिया: अन्तर्वार्ता\n(स्कीन ट्रिटमेन्ट हेयर तथा कस्मेटिक्स सम्बन्धी स्पेशल कोर्षमात्र पनि गर्न सकिने)\nसम्पर्क: लक्की ब्युटी पार्लर एण्ड ट्रेनिङ इन्स्टिच्युट प्रा.लि.\nपालिखेचोक, बुढ विशाल बजारको बीचमा\nफोन: ०६१-५२०७३४, ९८४६२-६२०७५",
+      "text_en": "Beautician Training\nThis beauty parlor, approved by the Government of Nepal, is running beautician and skin care related training; interested women may contact.\nSeats needed: 25 persons (women)\nSelection process: interview\n(Special courses only in skin treatment, hair and cosmetics are also available)\nContact: Lucky Beauty Parlor and Training Institute Pvt. Ltd.\nPalikhechok, in the middle of Budh Bishal Bazaar\nPhone: 061-520734, 9846-262075",
+      "jobs": [
+        {
+          "category": "training",
+          "title": "Beautician / Skin Care Training",
+          "organization": "Lucky Beauty Parlor and Training Institute Pvt. Ltd.",
+          "location": "Palikhechok, Pokhara",
+          "positions_count": "25",
+          "salary": "",
+          "qualifications": "Women, selected via interview",
+          "deadline_text": "",
+          "contact": "061-520734, 9846262075",
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "box": 27,
+      "bbox": [],
+      "text_ne": "११ कर्मचारी तु-आवश्यकता\nसंख्या: ७ लेडिज/जेन्स\nयोग्यता: साधारण, SLC, +2 above\nसमय: ११:00-५:00 बजेसम्म\nतलब: १९,५00/-\nसम्पर्क: (Only for location)\n061-520998, 9846060475, 9806548802\nनोट: अर्जेन्ट परेको हुँदा डकुमेन्टसहित कार्यालय visit गर्नुहोला।",
+      "text_en": "Staff Immediately Wanted\nNumber: 7 ladies/gents\nQualification: general literate, SLC, +2 above\nHours: 11:00 to 5:00\nSalary: Rs 19,500/-\nContact: (Only for location)\n061-520998, 9846060475, 9806548802\nNote: Urgent requirement, please visit office with documents.",
+      "jobs": [
+        {
+          "category": "private",
+          "title": "Staff (general)",
+          "organization": "",
+          "location": "",
+          "positions_count": "7",
+          "salary": "रु १९,५00/-",
+          "qualifications": "General literate / SLC / +2 above",
+          "deadline_text": "",
+          "contact": "061-520998, 9846060475, 9806548802",
+          "confidence": 0.55
+        }
+      ]
+    },
+    {
+      "box": 28,
+      "bbox": [],
+      "text_ne": "कुक चाहियो\nपोखरा-८, सिमलचौर, चालिसेचोकस्थित Kensiro's Hyakiniku & Resturant का लागि दक्ष तथा अनुभवी व्यक्तिले तु-सम्पर्क गर्नुहोला।\nसम्पर्क: प्रो जयन्द्र भण्डारी\n9806438028, 9805886408",
+      "text_en": "Cook Wanted\nSkilled and experienced persons should contact immediately for Kensiro's Hyakiniku & Restaurant located at Chalisechowk, Simalchaur, Pokhara-8.\nContact: Pro Jayendra Bhandari\n9806438028, 9805886408",
+      "jobs": [
+        {
+          "category": "private",
+          "title": "Cook",
+          "organization": "Kensiro's Hyakiniku & Restaurant",
+          "location": "Simalchaur, Chalisechowk, Pokhara-8",
+          "positions_count": "",
+          "salary": "",
+          "qualifications": "Skilled and experienced",
+          "deadline_text": "",
+          "contact": "9806438028, 9805886408",
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "box": 29,
+      "bbox": [],
+      "text_ne": "वेटर चाहियो\nपोखरा-८, न्यूरोड स्थित एक रेष्टुरेण्टका लागि अनुभवी वेटर चाहियो।\nसंख्या: ३\nसम्पर्क ०६१-५४१६१९",
+      "text_en": "Waiter Wanted\nAn experienced waiter is needed for a restaurant located at New Road, Pokhara-8.\nNumber: 3\nContact 061-541619",
+      "jobs": [
+        {
+          "category": "private",
+          "title": "Waiter",
+          "organization": "",
+          "location": "New Road, Pokhara-8",
+          "positions_count": "3",
+          "salary": "",
+          "qualifications": "Experienced",
+          "deadline_text": "",
+          "contact": "061-541619",
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "box": 30,
+      "bbox": [],
+      "text_ne": "आवश्यकता\nComputer Technician - 2\nReq.: Computer, Laptop assemble, dissemble, os installation.\nElectronics mobile repair : 1\nReq.: With Bike Licence\nसम्पर्क सिद्धार्थ कम्प्युटर एण्ड इलेक्ट्रोनिक्स\nसिद्धार्थचोक-8, पोखरा\n9856030718, 061-531384",
+      "text_en": "Wanted\nComputer Technician - 2\nReq.: Computer, Laptop assemble, dissemble, OS installation.\nElectronics mobile repair: 1\nReq.: With Bike License\nContact Siddhartha Computer and Electronics\nSiddharthachok-8, Pokhara\n9856030718, 061-531384",
+      "jobs": [
+        {
+          "category": "private",
+          "title": "Computer Technician",
+          "organization": "Siddhartha Computer and Electronics",
+          "location": "Siddharthachok-8, Pokhara",
+          "positions_count": "2",
+          "salary": "",
+          "qualifications": "Computer/laptop assemble, dissemble, OS installation",
+          "deadline_text": "",
+          "contact": "9856030718, 061-531384",
+          "confidence": 0.75
+        },
+        {
+          "category": "private",
+          "title": "Electronics / Mobile Repair Technician",
+          "organization": "Siddhartha Computer and Electronics",
+          "location": "Siddharthachok-8, Pokhara",
+          "positions_count": "1",
+          "salary": "",
+          "qualifications": "With bike license",
+          "deadline_text": "",
+          "contact": "9856030718, 061-531384",
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "box": 32,
+      "bbox": [],
+      "text_ne": "आवश्यकता\nचौथेमा अवस्थित मेटल कम्पनीको लागि निम्नानुसार कर्मचारी आवश्यकता\nमेटल मिस्त्री: केही\nतलब: २0,000/- (बस्नको सुविधा)\nसम्पर्क: न्यू अर्मला कास्की इन्जिनियरिङ वर्क्स\n9846650204, 9856069315, 9804180300",
+      "text_en": "Wanted\nStaff needed as follows for a metal company located at Chauthe\nMetal Mistri (metal worker): several\nSalary: Rs 20,000/- (accommodation provided)\nContact: New Umla Kaski Engineering Works\n9846650204, 9856069315, 9804180300",
+      "jobs": [
+        {
+          "category": "private",
+          "title": "Metal Mistri (Metal Worker)",
+          "organization": "New Umla Kaski Engineering Works",
+          "location": "Chauthe",
+          "positions_count": "",
+          "salary": "रु २0,000/-",
+          "qualifications": "",
+          "deadline_text": "",
+          "contact": "9846650204, 9856069315, 9804180300",
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "box": 34,
+      "bbox": [],
+      "text_ne": "आवश्यकता\nकुक: १ जना (पुरुष)\nवेटर: २ जना (पुरुष)\nयोग्यता: एस.एल.सी. पास\nकृपया अनुभवीले मात्र सम्पर्क गर्नुहोला।\nसम्पर्क ०६१-५२७७४२, ९८४६०-३७७८३\nमहेन्द्रपुल",
+      "text_en": "Wanted\nCook: 1 person (male)\nWaiter: 2 persons (male)\nQualification: SLC pass\nOnly experienced persons should contact.\nContact 061-527742, 9846037783\nMahendrapul",
+      "jobs": [
+        {
+          "category": "private",
+          "title": "Cook",
+          "organization": "",
+          "location": "Mahendrapul",
+          "positions_count": "1",
+          "salary": "",
+          "qualifications": "SLC pass, experienced, male",
+          "deadline_text": "",
+          "contact": "061-527742, 9846037783",
+          "confidence": 0.6
+        },
+        {
+          "category": "private",
+          "title": "Waiter",
+          "organization": "",
+          "location": "Mahendrapul",
+          "positions_count": "2",
+          "salary": "",
+          "qualifications": "SLC pass, experienced, male",
+          "deadline_text": "",
+          "contact": "061-527742, 9846037783",
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "box": 35,
+      "bbox": [],
+      "text_ne": "आवश्यकता\nपृथ्वीचोक स्थित अत्यन्त चालु अवस्थामा रहेको बुटिकका लागि अनुभवी केही कर्मचारी चाहियो।\nसिलाइकटाई जानेकालाई विशेष ग्राह्यता।\nतलब: आपसी समझदारीमा।\nसम्पर्क: ९८५६०३१८७६\nदिदीबहिनी बुटिक सेन्टर पृथ्वीचोक",
+      "text_en": "Wanted\nSome experienced staff are needed for a very active boutique located at Prithvichowk.\nSpecial preference for those who know cutting and stitching.\nSalary: by mutual agreement.\nContact: 9856031876\nDidibahini Boutique Center, Prithvichowk",
+      "jobs": [
+        {
+          "category": "private",
+          "title": "Boutique Staff (Tailor)",
+          "organization": "Didibahini Boutique Center",
+          "location": "Prithvichowk, Pokhara",
+          "positions_count": "",
+          "salary": "आपसी समझदारीमा",
+          "qualifications": "Experienced, knows cutting-stitching preferred",
+          "deadline_text": "",
+          "contact": "9856031876",
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "box": 36,
+      "bbox": [],
+      "text_ne": "तु-आवश्यकता\nNew Branch in Pokhara का लागि।\nआवश्यक संख्या: ११ जना\nयोग्यता: Test/SLC/+2 above\nतलब: ७,५00/- देखि १8,000/- सम्म + दैनिक गाडीभाडा\nसम्पर्क: 9804173350, 9856032351, 9804108583\nनोट: काम उपयुक्त ठाउँ र समयमा गर्न मिल्ने भएकाले विद्यार्थी वर्ग, गृहिणी र साधारणले पनि सम्पर्क गर्न सक्नुहुनेछ।",
+      "text_en": "Immediately Wanted\nFor a New Branch in Pokhara.\nRequired number: 11 persons\nQualification: Test/SLC/+2 above\nSalary: Rs 7,500/- to 18,000/- + daily transport allowance\nContact: 9804173350, 9856032351, 9804108583\nNote: Since work location and time is flexible, students, housewives and general applicants may also contact.",
+      "jobs": [
+        {
+          "category": "private",
+          "title": "Staff (new branch)",
+          "organization": "",
+          "location": "Pokhara",
+          "positions_count": "11",
+          "salary": "रु ७,५00/- देखि १8,000/-",
+          "qualifications": "Test/SLC/+2 above",
+          "deadline_text": "",
+          "contact": "9804173350, 9856032351, 9804108583",
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "box": 37,
+      "bbox": [],
+      "text_ne": "कर्मचारी आवश्यकता\nनेपाल सरकारबाट मान्यता प्राप्त SPI Project लाई निम्न कर्मचारी आवश्यकता\nसाधारण: ५ जना\nSLC: ५ जना\n+2 above: ३ जना\nतलब: ८,000 देखि १७,000 सम्म + दैनिक गाडीभाडा+मासिक बोनस\nसम्पर्क: 9846222719, 9824146932",
+      "text_en": "Staff Wanted\nStaff needed as follows for the Government of Nepal recognized SPI Project\nGeneral: 5 persons\nSLC: 5 persons\n+2 above: 3 persons\nSalary: Rs 8,000 to 17,000 + daily transport + monthly bonus\nContact: 9846222719, 9824146932",
+      "jobs": [
+        {
+          "category": "private",
+          "title": "Project Staff",
+          "organization": "SPI Project",
+          "location": "",
+          "positions_count": "13",
+          "salary": "रु ८,000 देखि १७,000",
+          "qualifications": "General / SLC / +2 above",
+          "deadline_text": "",
+          "contact": "9846222719, 9824146932",
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "box": 38,
+      "bbox": [],
+      "text_ne": "कर्मचारी आवश्यकता\nपद: विद्युत मिटर रिडर (पुरुष)\nकार्यक्षेत्र: कास्की जिल्लाका ग्रामीण भेगका गाविसहरू।\nशैक्षिक योग्यता: एस.एल.सी. उत्तीर्ण।\nसम्पर्क नं.: ८८१६९१६३८८४, ८८२५९८२०१०",
+      "text_en": "Staff Wanted\nPosition: Electric Meter Reader (male)\nWork area: rural VDCs of Kaski district.\nEducational qualification: SLC pass.\nContact no.: 8816916384, 8825982010",
+      "jobs": [
+        {
+          "category": "other",
+          "title": "Electric Meter Reader",
+          "organization": "",
+          "location": "Rural VDCs, Kaski district",
+          "positions_count": "",
+          "salary": "",
+          "qualifications": "SLC pass, male",
+          "deadline_text": "",
+          "contact": "8816916384, 8825982010",
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "box": 42,
+      "bbox": [],
+      "text_ne": "COMPUTER TEACHER WANTED\nWe are seeking a full time Computer Teacher who can teach upto secondary level. Candidates who have passed bachelor or running are requested to send their C.V. and all supporting documents along with handwritten covering letter affixing a recent passport size photo by 10 April, 2016\nGYANODAYA BOARDING SCHOOL\nPokhara-6, Lakeside, Dihikopatan\nPhone: 061-462629, 9802821465, 9846061046",
+      "text_en": "COMPUTER TEACHER WANTED\nWe are seeking a full time Computer Teacher who can teach up to secondary level. Candidates who have passed bachelor's or are currently pursuing it are requested to send their C.V. and all supporting documents along with a handwritten covering letter affixing a recent passport size photo by 10 April, 2016.\nGYANODAYA BOARDING SCHOOL\nPokhara-6, Lakeside, Dihikopatan\nPhone: 061-462629, 9802821465, 9846061046",
+      "jobs": [
+        {
+          "category": "private",
+          "title": "Computer Teacher",
+          "organization": "Gyanodaya Boarding School",
+          "location": "Pokhara-6, Lakeside, Dihikopatan",
+          "positions_count": "1",
+          "salary": "",
+          "qualifications": "Bachelor's passed or running, able to teach up to secondary level",
+          "deadline_text": "10 April, 2016",
+          "contact": "061-462629, 9802821465, 9846061046",
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "box": 47,
+      "bbox": [],
+      "text_ne": "कर्मचारी आवश्यकता\nफ्रान्सेली कन्सेप्टबाट नेपालमा सञ्चालित यस प्रोजेक्टका लागि।\n8 Pass, Test: ५ (ले/जे)\nSLC, +2 above: ४ (ले/जे)\nतलब: ८,000 देखि १५,५00 सम्म + दैनिक गाडीभाडा + मासिक बोनस\nसम्पर्क: 9860750147, 9805240858\n(नोट: अर्जेन्ट परेकाले पहिला आउनेलाई प्राथमिकता)",
+      "text_en": "Staff Wanted\nFor this project run in Nepal under a French concept.\n8 Pass, Test: 5 (ladies/gents)\nSLC, +2 above: 4 (ladies/gents)\nSalary: Rs 8,000 to 15,500 + daily transport + monthly bonus\nContact: 9860750147, 9805240858\n(Note: urgent requirement, first come first preference)",
+      "jobs": [
+        {
+          "category": "private",
+          "title": "Project Staff",
+          "organization": "",
+          "location": "Nepal",
+          "positions_count": "9",
+          "salary": "रु ८,000 देखि १५,५00",
+          "qualifications": "Class 8 pass / Test / SLC / +2 above",
+          "deadline_text": "",
+          "contact": "9860750147, 9805240858",
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "box": 48,
+      "bbox": [],
+      "text_ne": "तु-आवश्यकता\nएक प्रतिष्ठित होटलका लागि\nसेफ: १ जना\nकुक: ३ जना\nकुक हेल्पर: २ जना\nवेटर: ५ जना\nकार्यक्षेत्र घाँसिकुवा, तनहुँ\nसम्पर्क: ९८५११९८७१९, ९८५६०३२३२५, ९८११११३२३२५",
+      "text_en": "Immediately Wanted\nFor a reputed hotel\nChef: 1 person\nCook: 3 persons\nCook Helper: 2 persons\nWaiter: 5 persons\nWork area: Ghasikuwa, Tanahu\nContact: 9851198719, 9856032325, 9811113325",
+      "jobs": [
+        {
+          "category": "private",
+          "title": "Chef",
+          "organization": "",
+          "location": "Ghasikuwa, Tanahu",
+          "positions_count": "1",
+          "salary": "",
+          "qualifications": "",
+          "deadline_text": "",
+          "contact": "9851198719, 9856032325, 9811113325",
+          "confidence": 0.6
+        },
+        {
+          "category": "private",
+          "title": "Cook",
+          "organization": "",
+          "location": "Ghasikuwa, Tanahu",
+          "positions_count": "3",
+          "salary": "",
+          "qualifications": "",
+          "deadline_text": "",
+          "contact": "9851198719, 9856032325, 9811113325",
+          "confidence": 0.6
+        },
+        {
+          "category": "private",
+          "title": "Cook Helper",
+          "organization": "",
+          "location": "Ghasikuwa, Tanahu",
+          "positions_count": "2",
+          "salary": "",
+          "qualifications": "",
+          "deadline_text": "",
+          "contact": "9851198719, 9856032325, 9811113325",
+          "confidence": 0.6
+        },
+        {
+          "category": "private",
+          "title": "Waiter",
+          "organization": "",
+          "location": "Ghasikuwa, Tanahu",
+          "positions_count": "5",
+          "salary": "",
+          "qualifications": "",
+          "deadline_text": "",
+          "contact": "9851198719, 9856032325, 9811113325",
+          "confidence": 0.6
+        }
+      ]
+    }
+  ]
+}

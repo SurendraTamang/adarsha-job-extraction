@@ -1,0 +1,82 @@
+{
+ "cc-1-1-0": {
+  "job": "no",
+  "reason": "Study-in-Japan placement ad with seminar, scholarships, visa guarantee — not hiring. [0y/3n]"
+ },
+ "cc-1-2-0": {
+  "job": "yes",
+  "reason": "Calls applicants to train as FM presenters, with placement for top trainees [2y/1n]"
+ },
+ "cc-1-2-3": {
+  "job": "no",
+  "reason": "Study-abroad package ad quoting fees, no IELTS needed, sells student visa. [0y/3n]"
+ },
+ "cc-1-3-0": {
+  "job": "no",
+  "reason": "Language institute advertising standing courses and Israel placement, not recruiting. [0y/3n]"
+ },
+ "cc-1-4-1": {
+  "job": "yes",
+  "reason": "Free training recruits 20 female trainees for beautician, with seats, documents, interview. [3y/0n]"
+ },
+ "cc-1-4-2": {
+  "job": "no",
+  "reason": "Korean language institute advertising its EPS-TOPIK course, no job recruitment [0y/3n]"
+ },
+ "cc-1084-1-1": {
+  "job": "no",
+  "reason": "Study-abroad institute ad selling courses and overseas degree, not hiring [0y/3n]"
+ },
+ "cc-1084-1-2": {
+  "job": "yes",
+  "reason": "Free seminar on Gurkha recruitment, no fees or course catalogue [3y/0n]"
+ },
+ "cc-1084-5-1": {
+  "job": "yes",
+  "reason": "CTEVT free training with eligibility, seats, and application deadline calls for trainees. [3y/0n]"
+ },
+ "cc-1084-5-10": {
+  "job": "no",
+  "reason": "IELTS course ad selling standing classes; no recruitment, seats, or job placement called. [0y/3n]"
+ },
+ "cc-1084-5-2": {
+  "job": "yes",
+  "reason": "Recruits 25 female trainees for beautician training with interview selection [3y/0n]"
+ },
+ "cc-1084-5-22": {
+  "job": "no",
+  "reason": "Study-abroad MBBS/MD placement ad, not recruitment [0y/3n]"
+ },
+ "cc-1084-5-4": {
+  "job": "yes",
+  "reason": "Standing course catalogue with placement and document help, no actual vacancies [2y/1n]"
+ },
+ "cc-180-3-0": {
+  "job": "yes",
+  "reason": "Calls applicants for media training tied to radio presenter/journalist job placements [3y/0n]"
+ },
+ "cc-180-3-1": {
+  "job": "yes",
+  "reason": "CTEVT-recognized free beautician training recruiting trainees, tied to job placement. [3y/0n]"
+ },
+ "cc-180-4-3": {
+  "job": "no",
+  "reason": "Language course advertisement for HRD Korea EPS-Topic, not job recruitment [0y/3n]"
+ },
+ "cc-180-4-4": {
+  "job": "yes",
+  "reason": "Free security guard training tied to a named job, with start date. [3y/0n]"
+ },
+ "cc-180-4-8": {
+  "job": "no",
+  "reason": "Korean language course ad, not recruiting applicants or tied to a job. [0y/3n]"
+ },
+ "cc-180-5-2": {
+  "job": "no",
+  "reason": "Private media institute advertising its own speaking-skills course enrollment, no recruitment. [0y/3n]"
+ },
+ "cc-2216-5-0": {
+  "job": "no",
+  "reason": "Institute advertises its own English and job-interview course menu, not hiring [0y/3n]"
+ }
+}

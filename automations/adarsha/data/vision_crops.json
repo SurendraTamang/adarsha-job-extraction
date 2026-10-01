@@ -1,0 +1,458 @@
+{
+ "1": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "2": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "3": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "4": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "5": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "6": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "7": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "8": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "9": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "10": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "11": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "12": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "13": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "14": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "15": {
+  "match": "no",
+  "raw": "MATCH: no",
+  "adjudicated": "FALSE POSITIVE: crop shows the Cyprus/Pythagoras ad exactly as extracted"
+ },
+ "16": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "17": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "18": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "19": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "20": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "21": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "22": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "23": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "24": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "25": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "26": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "27": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "28": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "29": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "30": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "31": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "32": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "33": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "34": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "35": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "36": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "37": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "38": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "39": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "40": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "41": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "42": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "43": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "44": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "45": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "46": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "47": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "48": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "49": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "50": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "51": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "52": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "53": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "54": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "55": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "56": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "57": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "58": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "59": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "60": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "61": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "62": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "63": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "64": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "65": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "66": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "67": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "68": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "69": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "70": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "71": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "72": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "73": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "74": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "75": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "76": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "77": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "78": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "79": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "80": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "81": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "82": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "83": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "84": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "85": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "86": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "87": {
+  "match": "no",
+  "raw": "MATCH: no",
+  "adjudicated": "FALSE POSITIVE: crop shows the F.M. radio presenter ad exactly as extracted"
+ },
+ "88": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "89": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "90": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "91": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "92": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "93": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "94": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "95": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "96": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "97": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "98": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "99": {
+  "match": "no",
+  "raw": "MATCH: yes",
+  "adjudicated": "TRUE: crop shows the lost-document notice; ad text is correct. checker missed it in the batch run and caught it only on retry"
+ },
+ "100": {
+  "match": "no",
+  "raw": "MATCH: no",
+  "adjudicated": "TRUE: shares the wrong crop with job 99 (lost-document notice)"
+ },
+ "101": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "102": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "103": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "104": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "105": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "106": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "107": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "108": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "109": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "110": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "111": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "112": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ },
+ "113": {
+  "match": "yes",
+  "raw": "MATCH: yes"
+ }
+}

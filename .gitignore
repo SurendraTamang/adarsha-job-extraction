@@ -1,0 +1,30 @@
+# Bulk binaries and regenerable images: never commit these.
+#   data/pdfs  ~19 GB  re-download with download.py
+#   data/pages ~320 MB re-render with render.py
+#   data/tiles ~430 MB re-render with extract.py prep
+automations/adarsha/data/pdfs/
+automations/adarsha/data/pages/
+automations/adarsha/data/tiles/
+
+# Keep the small, expensive-to-reproduce artefacts that ARE committed:
+#   data/adarsha.db        the database (paths need `common.py --relocate` after clone)
+#   data/crops/            31 MB of ad crops, the point of the whole dataset
+#   data/cc/               the per-page model answers
+#   data/audit_*.md, groundtruth.csv, vision_*.json, pilot_*.txt
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# OS
+.DS_Store
+
+# Never commit specs/plans (per CLAUDE.md)
+docs/superpowers/
+
+# Scratch logs: large and regenerable
+automations/adarsha/data/scrape.log
+automations/adarsha/data/*_run.log

@@ -1,0 +1,184 @@
+{
+ "99": {
+  "FIELDS": "CORRECT",
+  "CROP": "WRONG_AD",
+  "MISSING": "Friday Restaurant ad",
+  "raw": "FIELDS: CORRECT\nCROP: WRONG_AD\nMISSING: Friday Restaurant ad (सहायक मेनेजर/सेफ/हेड कुक/रिसेप्सनिष्ट), plus टु-आवश्यकता कुक/वेटर/हाउस किफिङ ads, EPS-TOPIK, रोजगारी चावी घर, कुकुर/तु-विफ्रोमा, विज्ञान, One hand/one owner, and \"पोखराको महोत्सव-२०६९\" vacancy ad"
+ },
+ "195": {
+  "FIELDS": "CORRECT",
+  "CROP": "MATCHES",
+  "MISSING": "",
+  "raw": "FIELDS: CORRECT\nCROP: MATCHES\nMISSING: \"कम्प्युटर सहायक तथा सेक्युरिटी गार्ड आवश्यकता\" and dozens of other boxed job ads on the page (e.g. \"आवश्यकता – अफिसको लागि\", \"कर्तारी चाहियो\", \"तेल बाहेट वाहियो\", \"पार्श्वरक्षण एक्सईनेंसिङ\")"
+ },
+ "108": {
+  "FIELDS": "CORRECT",
+  "CROP": "MATCHES",
+  "MISSING": "Working Visa for Poland ad",
+  "raw": "FIELDS: CORRECT\nCROP: MATCHES\nMISSING: Working Visa for Poland ad, plus many other \"विक्रिमा\" classifieds on the page"
+ },
+ "11": {
+  "FIELDS": "CORRECT",
+  "CROP": "MATCHES",
+  "MISSING": "OR TWO K Restaurant vacancies",
+  "raw": "FIELDS: CORRECT\nCROP: MATCHES\nMISSING: OR TWO K Restaurant vacancies (कुक, वेटर हेल्पर, डेट, स्टोर किपर)"
+ },
+ "67": {
+  "FIELDS": "CORRECT",
+  "CROP": "MATCHES",
+  "MISSING": "the",
+  "raw": "FIELDS: CORRECT\nCROP: MATCHES\nMISSING: the \"जापानीज भाषा प्रशिक्षक चाहियो\" (Japanese language instructor) ad, and the \"URGENT JOB VACANCY\" ad for Cook/Cook Helper at Lakeside (+977 9709876456)"
+ },
+ "131": {
+  "FIELDS": "CORRECT",
+  "CROP": "MATCHES",
+  "MISSING": "",
+  "raw": "FIELDS: CORRECT\nCROP: MATCHES\nMISSING: ३० मिनेटमै रिलिज, सेप्टी ट्याइडकी सफाई गर्नुपर्‍ने, फेस हाउस, पालर बिजोमा, होटल माडामा, प्रेस हाउस, रेष्टुरेन्ट, EPS-TOPIK, कलाकार आवश्यकता, WANTED (Young Heart Edu. / Concept), विद्यालय भर्ना"
+ },
+ "125": {
+  "FIELDS": "CORRECT",
+  "CROP": "MATCHES",
+  "MISSING": "Pragati English Boarding School",
+  "raw": "FIELDS: CORRECT\nCROP: MATCHES\nMISSING: Pragati English Boarding School \"Vacancy Announcement\" ad, plus the सैन्य व्याइडकी/कोरियन भाषा (EPS‑TOPIK), फ्रेस हाउस/कस्मेटिक पसल, अभिनेता‑कलाकार, वार्षिकेण्ड विफ्रिङमा and the \"विविध विज्ञापन\" classifieds strip"
+ },
+ "104": {
+  "FIELDS": "CORRECT",
+  "CROP": "MATCHES",
+  "MISSING": "",
+  "raw": "FIELDS: CORRECT\nCROP: MATCHES\nMISSING: अनामनगे सेवा रोजगारी, होटेल ट्रेनिङ्ग, होटेल अभ्यास, प्रसिद्धि कार्यालय, तयारीमा सुरु हुने अध्ययन विदेशी कम्पनी (विदेशी रोजगारी/हुनु मान्छे खोज्ने)"
+ },
+ "201": {
+  "FIELDS": "CORRECT",
+  "CROP": "MATCHES",
+  "MISSING": "",
+  "raw": "FIELDS: CORRECT\nCROP: MATCHES\nMISSING: \"Computer Technician – 2\" in the same ad, plus other page ads (e.g. \"वु-आवश्यकता New Branch in Pokhara\", \"होटेल वाहक चालक\")"
+ },
+ "78": {
+  "FIELDS": "CORRECT",
+  "CROP": "MATCHES",
+  "MISSING": "Hotel Staff Wanted",
+  "raw": "FIELDS: CORRECT\nCROP: MATCHES\nMISSING: Hotel Staff Wanted (Hotel Silent Peak), चमेनागृह भाडामा दिने सूचना, पुस्तक खरीदका लागि कोटेशन आह्वान"
+ },
+ "123": {
+  "FIELDS": "CORRECT",
+  "CROP": "MATCHES",
+  "MISSING": "Pragati English Boarding School",
+  "raw": "FIELDS: CORRECT\nCROP: MATCHES\nMISSING: Pragati English Boarding School \"Vacancy Announcement\" (Nursery/Primary Science Teacher), plus the कोरियन भाषा HRD Korea EPS-TOPIC, सिप्टी ट्रयाइफ सफाई, and रोजगारी दिने तालिम (Bikramsoft) ads."
+ },
+ "92": {
+  "FIELDS": "CORRECT",
+  "CROP": "MATCHES",
+  "MISSING": "Dubai Security Guard",
+  "raw": "FIELDS: CORRECT\nCROP: MATCHES\nMISSING: Dubai Security Guard/Cleaner ad (अजन्ती ओभरसिज) and the Dubai Indoor Cleaner / General Labour visa ad"
+ },
+ "150": {
+  "FIELDS": "CORRECT",
+  "CROP": "MATCHES",
+  "MISSING": "Om Academy",
+  "raw": "FIELDS: CORRECT\nCROP: MATCHES\nMISSING: Om Academy \"Teachers Wanted\" ad, Himalaya Vidya School 3-teacher vacancy, Lumal Net Pvt. Ltd. vacancy announcement"
+ },
+ "56": {
+  "FIELDS": "CORRECT",
+  "CROP": "MATCHES",
+  "MISSING": "Metropolitan Academy",
+  "raw": "FIELDS: CORRECT\nCROP: MATCHES\nMISSING: Metropolitan Academy, Pame Saving, शिक्षा आदर्श एकल शिक्षा, गंगा गंगा निर्माण, विश्वप्रज्ञा कक्लास, श्री ज्ञानज्योती माध्यमिक, फलेपाटन टोल, वडा भाडामा, विन इन्टरन्‍युनल, पुजाल बिक्रम, कर्मचारी आवश्यकता (सीधा भर्ती), WANTED Siddhartha English"
+ },
+ "130": {
+  "FIELDS": "CORRECT",
+  "CROP": "MATCHES",
+  "MISSING": "many other ads on the page",
+  "raw": "FIELDS: CORRECT\nCROP: MATCHES\nMISSING: many other ads on the page — e.g. 30 मोन्ेन्ट्स रिलिफ कोरियन लेजर, सेप्टी ट्याइफी सफाई, फ्रिस हाउस बिग्रीमा, क्लासिकार आवश्यकता, हेयर क्याटलिङ, एपारेल डिजाइनर प्रोग्राम, फेस बुक डिजाइनर, हयु म्युजिक एसिडेमिक हरायो, मोबाइल पसल बिग्रीमा"
+ },
+ "36": {
+  "FIELDS": "CORRECT",
+  "CROP": "MATCHES",
+  "MISSING": "Sagarmatha Niketan School",
+  "raw": "FIELDS: CORRECT\nCROP: MATCHES\nMISSING: Sagarmatha Niketan School (Wanted), Gandaki Education Foundation (GEF) Teacher Wanted, Buds Academy vacancies, Everest Sports Academy recruitment notice"
+ },
+ "73": {
+  "FIELDS": "CORRECT",
+  "CROP": "MATCHES",
+  "MISSING": "",
+  "raw": "FIELDS: UNSURE\nCROP: MATCHES\nMISSING: \"URGENT JOB VACANCY ad (Lakeside hotel, Cook/Cook Helper, +977 9709876456); the same Hotel Silent Peak ad's other two openings (Residental Cook - 1, Residental Dishwasher-1)\"",
+  "adjudicated": "vision said UNSURE; 'Night Staff - 1' is role 3 of a 3-role ad and the fields and contact match exactly"
+ },
+ "202": {
+  "FIELDS": "CORRECT",
+  "CROP": "MATCHES",
+  "MISSING": "many other ads on the page",
+  "raw": "FIELDS: CORRECT\nCROP: MATCHES\nMISSING: many other ads on the page, e.g. कर्तव्यी आवश्यकता, वु-आवश्यकता, होटल विभ्रोमा, प्रेस हाउस विभ्रोमा, कुक चाहियो, वेटर चाहियो"
+ },
+ "194": {
+  "FIELDS": "CORRECT",
+  "CROP": "MATCHES",
+  "MISSING": "",
+  "raw": "FIELDS: CORRECT\nCROP: MATCHES\nMISSING: होटल तालिम इन्टरनेशनलमा भित्र अन्य पदहरू (Cook/Waiter भन्दा थप), साथै अन्य विज्ञापनहरू — जस्तै अर्काउन्ट घर अवस्थ्यकता, वु-अवस्थ्यकता, पालुट अवस्थ्यकता, कम्प्युटर सहायक तथा सेक्युरिटी गार्ड अवस्थ्यकता"
+ },
+ "25": {
+  "FIELDS": "CORRECT",
+  "CROP": "MATCHES",
+  "MISSING": "Sagarmatha Niketan School",
+  "raw": "FIELDS: CORRECT\nCROP: MATCHES\nMISSING: Sagarmatha Niketan School (WANTED posts: lower secondary maths, primary computer, sports, grade teacher), Golden Nature Higher Secondary School vacancy (social studies, maths/science, English, office secretary), Gandaki Education Foundation (GEF) English School teacher wanted (maths/science, Nepali, English, grade teacher), L.P. Devkota Memorial Boarding School (cook, boarding helper)"
+ },
+ "159": {
+  "FIELDS": "CORRECT",
+  "CROP": "MATCHES",
+  "MISSING": "Teachers Wanted",
+  "raw": "FIELDS: WRONG\nCROP: MATCHES\nMISSING: Teachers Wanted (Om Academy Secondary Boarding School), TEACHER WANTED (Kaski Modernized Academy), Vacancy Announcement (Lumbini Net Pvt. Ltd.)",
+  "adjudicated": "vision said WRONG, but title/org/positions/contact all match the ad; it read other ads on the page as errors in this record"
+ },
+ "65": {
+  "FIELDS": "CORRECT",
+  "CROP": "MATCHES",
+  "MISSING": "Hotel Silent Peak",
+  "raw": "FIELDS: CORRECT\nCROP: MATCHES\nMISSING: Hotel Silent Peak \"Hotel Staff Wanted\" ad and Fuji Japanese Language Center teacher ad"
+ },
+ "137": {
+  "FIELDS": "CORRECT",
+  "CROP": "MATCHES",
+  "MISSING": "Pragati English Boarding School vacancy announcement",
+  "raw": "FIELDS: CORRECT\nCROP: MATCHES\nMISSING: Pragati English Boarding School vacancy announcement, plus the ~60 other classified ads in the विज्ञापन/classified grid"
+ },
+ "181": {
+  "FIELDS": "CORRECT",
+  "CROP": "MATCHES",
+  "MISSING": "",
+  "raw": "FIELDS: CORRECT\nCROP: MATCHES\nMISSING: रेष्टुरेन्ट बिजौता (सुकुरेट), पसल बिजौता, माडामा (विदेशमा), सुपर स्प्लेण्डर बिजौता, कर्मचारी आवश्यकता (गमना/सेन्ट्रल कफे), हाइवेमा रहेको जागा बिजौता, हाइलाइट ओपन स्कुल (प्राथमिक तह सहायक)"
+ },
+ "155": {
+  "FIELDS": "CORRECT",
+  "CROP": "MATCHES",
+  "MISSING": "Om Academy Secondary Boarding School teacher posts and Himalaya Boarding School teacher vacancies",
+  "raw": "FIELDS: CORRECT\nCROP: MATCHES\nMISSING: Om Academy Secondary Boarding School teacher posts and Himalaya Boarding School teacher vacancies"
+ },
+ "38": {
+  "FIELDS": "CORRECT",
+  "CROP": "MATCHES",
+  "MISSING": "Sagarmatha Niketan School vacancies",
+  "raw": "FIELDS: CORRECT\nCROP: MATCHES\nMISSING: Sagarmatha Niketan School vacancies, Gandaki Education Foundation teacher wanted, Buds Academy vacancies"
+ },
+ "80": {
+  "FIELDS": "CORRECT",
+  "CROP": "MATCHES",
+  "MISSING": "the other two positions in the same ad",
+  "raw": "FIELDS: CORRECT\nCROP: MATCHES\nMISSING: the other two positions in the same ad — Residential Cook (1) and Night Staff (1)"
+ },
+ "26": {
+  "FIELDS": "CORRECT",
+  "CROP": "MATCHES",
+  "MISSING": "Golden Nature Higher Secondary School vacancies",
+  "raw": "FIELDS: CORRECT\nCROP: MATCHES\nMISSING: Golden Nature Higher Secondary School vacancies, Gandaki Education Foundation (GEF) teacher wanted, Buds Academy vacancies, Everest College B.Sc. scholarship notice"
+ },
+ "187": {
+  "FIELDS": "CORRECT",
+  "CROP": "MATCHES",
+  "MISSING": "",
+  "raw": "FIELDS: CORRECT\nCROP: MATCHES\nMISSING: अर्जेन्ट चाहियो is not the only ad — also missing विन्डोर बिग्रोमा, माडामा, फर एडमिन (Open Vision Academy), कर्मचारी आवश्यकता (एस.आई.), सुपर स्टेलेन्डर (लक्स्मी होटल), वि-आवश्यकता, हाइवेमा रहेको जागा बिग्रोमा, नयाँ ऑफिसको लागि कर्मचारी चाहियो"
+ },
+ "217": {
+  "FIELDS": "CORRECT",
+  "CROP": "MATCHES",
+  "MISSING": "",
+  "raw": "retry"
+ }
+}

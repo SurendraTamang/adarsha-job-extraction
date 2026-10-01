@@ -1,0 +1,5 @@
+anthropic
+httpx
+nepali-datetime
+opencv-python-headless
+pytest
